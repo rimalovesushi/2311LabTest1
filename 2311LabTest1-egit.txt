@@ -1,1 +1,1 @@
-This is a file created in EGit
+Add line using EGit.
